@@ -1,0 +1,63 @@
+=====================================================================
+  LISTA DE IMAGENS DO SITE — Aquecimento Solar da Piscina Escolar
+=====================================================================
+
+COMO FUNCIONA
+- Todas as imagens vão dentro da pasta:  imagens/
+- O nome do arquivo tem que ser EXATAMENTE como abaixo:
+  tudo minúsculo, SEM espaço e SEM acento.
+      certo:   imagem1.jpg
+      errado:  Imagem 1.jpg   /   imagem 1.jpg   /   imagem_1.jpg
+- Pode ser .jpg, .jpeg, .png ou .webp — o site descobre sozinho.
+- Enquanto a imagem não for colocada, o site mostra um quadro
+  tracejado escrito "Imagem X" no lugar dela. Nada quebra.
+- Para TROCAR uma imagem depois, é só enviar outro arquivo com o
+  mesmo nome (substituindo o antigo).
+
+---------------------------------------------------------------------
+ ARQUIVO        ONDE APARECE                 O QUE COLOCAR
+---------------------------------------------------------------------
+ imagem1.jpg    Capa                         FOTO DA PISCINA REAL da escola
+                                             (a melhor foto, de preferência
+                                             deitada/horizontal)
+
+ imagem2.jpg    Seção 1 – Radiação solar     Foto do Sol ou um esquema do
+                                             espectro solar (infravermelho,
+                                             luz visível, ultravioleta)
+
+ imagem3.jpg    Seção 3 – Proposta           Coletores solares térmicos
+                sustentável                  (as placas pretas por onde a
+                                             água passa)
+
+ imagem4.jpg    Seção 9 – Placas solares     Placas fotovoltaicas
+                                             (painéis azuis/pretos de
+                                             energia elétrica)
+
+ imagem5.jpg    Seção 7 – Desafios           Manta térmica cobrindo uma
+                                             piscina
+
+ imagem6.jpg    Seção 6 – Sistema de         Casa de máquinas da piscina da
+                aquecimento                  escola: bomba e filtro (se não
+                                             tiver, uma foto de bomba/filtro
+                                             de piscina)
+
+ imagem7.jpg    Seção 10 – A caldeira        Caldeira / aquecedor de piscina
+                                             (elétrico ou a gás)
+
+ imagem8.jpg    Seção 11 – Tinkercad         PRINT DA TELA do circuito de
+                                             vocês montado no Tinkercad
+                                             (Arduino + TMP36 + LED)
+
+ imagem9.jpg    Roteiro / Equipe             Foto do grupo: Amanda, Beatriz,
+                                             Daniel e Rafaela
+
+ imagem10.jpg   Seção 12 – Curitiba          Dia nublado ou com nevoeiro em
+                                             Curitiba (pode ser foto de vocês)
+---------------------------------------------------------------------
+
+DICAS
+- Fotos horizontais (deitadas) ficam melhores.
+- Se a foto for muito pesada (mais de 2 MB), diminua antes de enviar
+  (ex.: site squoosh.app ou tinypng.com) para o site abrir rápido.
+- Se usar imagem da internet (imagens 2, 3, 4, 5, 7), anote de onde
+  veio e coloque o link na seção "Fontes" do index.html.
